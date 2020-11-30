@@ -2,7 +2,7 @@
 README Generator
 
 # DESCRIPTION:
-To automatically generate a README.md
+This project will automatically generate a README.md file
 
 # TABLE OF CONTENTS:
 * [Title](#TITLE)
@@ -15,13 +15,13 @@ To automatically generate a README.md
 * [Questions](#QUESTIONS)
 
 # INSTALLATION:
-npm init -y then npm install
+npm init -y and then npm install
     
 # USAGE:
-To create a README.md file automatically
+To automatically generate a README.md file
 
- # CONTRITBUTION:
-fork the repo and put in a pull request
+ # CONTRIBUTION:
+Fork the repo and put in a pull request
 
 # TEST:
 Click the provided link for a video tutorial
