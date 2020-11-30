@@ -2,7 +2,7 @@
 README Generator
 
 # DESCRIPTION:
-Automatically generate a README.md file
+To automatically generate a README.md
 
 # TABLE OF CONTENTS:
 * [Title](#TITLE)
@@ -15,17 +15,18 @@ Automatically generate a README.md file
 * [Questions](#QUESTIONS)
 
 # INSTALLATION:
-Clone the SSH repo key and npm init -y then npm install
+npm init -y then npm install
     
 # USAGE:
-To automatically generate a README.md file
+To create a README.md file automatically
 
  # CONTRITBUTION:
-Fork the repo and submit a pull request to me
+fork the repo and put in a pull request
 
 # TEST:
-The link to video walkthrough is located in the README file
-https://www.awesomescreenshot.com/video/1877199?key=af9577f5b099f0aaaf2ee2b2f82d2a1cF
+Click the provided link for a video tutorial
+
+
 
 # LICENSE:
 

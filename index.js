@@ -80,7 +80,7 @@ ${answers.contribution}
 # TEST:
 ${answers.test}
 
-https://www.awesomescreenshot.com/video/1877199?key=af9577f5b099f0aaaf2ee2b2f82d2a1cF
+
 
 # LICENSE:
 
