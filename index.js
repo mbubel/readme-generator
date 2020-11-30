@@ -74,7 +74,7 @@ ${answers.install}
 # USAGE:
 ${answers.usage}
 
- # CONTRITBUTION:
+ # CONTRIBUTION:
 ${answers.contribution}
 
 # TEST:
